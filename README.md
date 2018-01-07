@@ -44,7 +44,7 @@ Grades will be determined based on three assignments, ten in-class tests, one co
 
 * Assignments (30%): two assignments, each of 15%
 * Quiz (5%): eight quick in-class tests (taken place at the beginning of Tuesday lectures), each of 1%; three with lowest grades will be dropped, and no make-up
-* Project (25%): team of 2 to 3 students, proposal (3%), reports (7%+10%), final presentation (5%, with 2% as bonus if selected as best project by peer students, and 1% as bonus for runner-up)
+* Project (25%): team of 2 to 3 students, proposal (3%), reports (7%+10%), final presentation (5%, with 1% as bonus if selected as best project by peer students)
 * Exam (35%): open-book
 * Participation (5%): classes (participating in-class discussions, etc), Piazza (answering questions, sharing notes, etc)
  
