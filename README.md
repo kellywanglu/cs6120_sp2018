@@ -18,7 +18,7 @@ _______
 [1/6/2017] We will have a quiz with 24 **simple** questions, 20 of them as True or False questions (relevant to probability, statistics, and linear algebra) in the second lecture (1/11/2018). This quiz will be graded, but will not be counted in your final score if you're enrolled in CS6120/CS4120. The purpose of this quiz is to indicate the expected background of students. 80% of the questions should be easy to answer. If you find yourself struggling with this quiz, it's possible that you need to catch up on the background or it may be preferable to take one or two preliminary courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above is required to enroll in this course.
 
 _______
-## Course Description
+## Course Description (and Syllabus)
 This course aims to introduce fundamental tasks in natural language processing, and its recent advances based on machine learning algorithms (e.g., neural networks) and applications for interdisciplinary subjects (e.g., computational social science). The course materials are mostly delivered as lectures, and accompanied with reading materials. The students will be evaluated based on assignments, a **research-driven** course project, and an open-book final exam.
 
 #### Textbooks and Reference
@@ -43,7 +43,7 @@ Each assignment or report, both electronic copy and hard copy, is due at the beg
 Grades will be determined based on three assignments, ten in-class tests, one course project, one open-book exam, and participation:
 
 * Assignments (30%): two assignments, each of 15%
-* Quiz (5%): eight quick in-class tests (taken place at the beginning of lecture), each of 1%; three with lowest grades will be dropped, and no make-up
+* Quiz (5%): eight quick in-class tests (taken place at the beginning of Tuesday lectures), each of 1%; three with lowest grades will be dropped, and no make-up
 * Project (25%): team of 2 to 3 students, proposal (3%), reports (7%+10%), final presentation (5%, with 2% as bonus if selected as best project by peer students, and 1% as bonus for runner-up)
 * Exam (35%): open-book
 * Participation (5%): classes (participating in-class discussions, etc), Piazza (answering questions, sharing notes, etc)
