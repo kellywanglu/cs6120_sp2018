@@ -48,7 +48,7 @@ Grades will be determined based on three assignments, ten in-class tests, one co
 * Exam (35%): open-book
 * Participation (5%): classes (participating in-class discussions, etc), Piazza (answering questions, sharing notes, etc)
  
- #### Sample Writeups for Project Proposal
+ #### Sample Writeups for Project
  * [[Project Proposal]](material_cs6120_sp18/project_proposal.pdf)
  * [[Project Progress Report]](material_cs6120_sp18/project_progress.pdf)
  * [[Project Progress Report]](material_cs6120_sp18/project_report.pdf)
