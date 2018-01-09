@@ -6,7 +6,7 @@
 
 **Staff and Office Hours**: 
 
-* Prof. Lu Wang, TBD, or by appointment, 258 WVH
+* Prof. Lu Wang, Tuesdays 5:15-6:15pm, or by appointment, 258 WVH
 * Liwen Hou (email: lhou@ccs.neu.edu), TBD, TBD
 * Tirthraj Maheshkumar Parmar (email: parmar.t@husky.neu.edu), TBD, TBD
 * Manthan Thakar (email: thakar.ma@husky.neu.edu), TBD, TBD
@@ -52,7 +52,7 @@ _______
 ## Schedule
 #### Jan 9 & 12
 * Topic: Introduction, Language Models
-* Slides: [[intro]](cs6120_sp2018/slides_cs6120_sp18/introduction.pdf) [[6pp version]](cs6120_sp2018/slides_cs6120_sp18/introduction_6pp.pdf) [[Language Model]](slides_cs6120_sp18/lm.pdf) [[6pp version]](cs6120_sp2018/slides_cs6120_sp18/lm_6pp.pdf)
+* Slides: [[intro]](slides_cs6120_sp18/introduction.pdf) [[6pp version]](slides_cs6120_sp18/introduction_6pp.pdf) [[Language Model]](slides_cs6120_sp18/lm.pdf) [[6pp version]](cs6120_sp2018/slides_cs6120_sp18/lm_6pp.pdf)
 * Reading: Ch1, Ch4.1-4.9 
 * TODO: start thinking about projects and looking for teammates
 
