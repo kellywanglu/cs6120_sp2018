@@ -7,15 +7,15 @@
 **Staff and Office Hours**: 
 
 * Prof. Lu Wang, Tuesdays 5:15-6:15pm, or by appointment, 258 WVH
-* Liwen Hou (email: lhou@ccs.neu.edu), TBD, TBD
-* Tirthraj Maheshkumar Parmar (email: parmar.t@husky.neu.edu), TBD, TBD
-* Manthan Thakar (email: thakar.ma@husky.neu.edu), TBD, TBD
+* Liwen Hou (email: lhou@ccs.neu.edu), Fridays 2:00–3:00 pm, or by appointment, 462 WVH
+* Tirthraj Maheshkumar Parmar (email: parmar.t@husky.neu.edu), Wednesdays 4:00-5:00 pm, or by appointment, 462 WVH
+* Manthan Thakar (email: thakar.ma@husky.neu.edu), Mondays 1:00–2:00 pm, or by appointment, 462 WVH
 
 **Discussion Forum**: [Piazza](http://piazza.com/northeastern/sp2018/cs6120/home), sign up at [piazza.com/northeastern/sp2018/cs6120](http://piazza.com/northeastern/sp2018/cs6120)
 
 _______
 ## Important Announcement
-[1/6/2017] We will have a quiz with 24 **simple** questions, 20 of them as True or False questions (relevant to probability, statistics, and linear algebra) in the second lecture (1/11/2018). This quiz will be graded, but will not be counted in your final score if you're enrolled in CS6120/CS4120. The purpose of this quiz is to indicate the expected background of students. 80% of the questions should be easy to answer. If you find yourself struggling with this quiz, it's possible that you need to catch up on the background or it may be preferable to take one or two preliminary courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above is required to enroll in this course.
+[1/6/2017] We will have a quiz with 20 **simple** True or False questions (relevant to probability, statistics, and linear algebra) in the second lecture (1/11/2018). This quiz will be graded, but will not be counted in your final score if you're enrolled in CS6120/CS4120. The purpose of this quiz is to indicate the expected background of students. 80% of the questions should be easy to answer. If you find yourself struggling with this quiz, it's possible that you need to catch up on the background or it may be preferable to take one or two preliminary courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above is required to enroll in this course.
 
 _______
 ## Course Description (and Syllabus)
