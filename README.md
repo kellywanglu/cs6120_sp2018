@@ -95,15 +95,17 @@ _______
 * Reading: Ch22.1-22.2
 
 
-#### Feb 27 & Mar 2
-* Topic: Question Answering, Text Summarization
+#### Feb 27 
+* Topic: Question Answering
 * Reading: Ch23
 
 
-#### Mar 6 & 9 (Spring Break)
+#### Mar 2 (No class: the day before spring break)
+
+#### Mar 6 & 9 (No class: spring break)
 
 #### Mar 13 & 16
-* Topic: Sentiment Analysis, Opinion Mining, NLP and Social Media
+* Topic: Text Summarization, Sentiment Analysis
 * Reading: [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf), [http://web.stanford.edu/~jurafsky/slp3/18.pdf](http://web.stanford.edu/~jurafsky/slp3/18.pdf)
 * Assignment 2 is due on Mar 13.
 
