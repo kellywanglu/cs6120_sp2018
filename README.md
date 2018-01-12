@@ -6,10 +6,10 @@
 
 **Staff and Office Hours**: 
 
-* Prof. Lu Wang, Tuesdays 5:15-6:15pm, or by appointment, 258 WVH
-* Liwen Hou (email: lhou@ccs.neu.edu), Fridays 2:00–3:00 pm, or by appointment, 462 WVH
-* Tirthraj Maheshkumar Parmar (email: parmar.t@husky.neu.edu), Wednesdays 4:00-5:00 pm, or by appointment, 462 WVH
-* Manthan Thakar (email: thakar.ma@husky.neu.edu), Mondays 1:00–2:00 pm, or by appointment, 462 WVH
+* Prof. Lu Wang, Tuesdays 5:15 - 6:15pm, or by appointment, 258 WVH
+* Liwen Hou (email: lhou@ccs.neu.edu), Fridays 2:00 - 3:00 pm, or by appointment, 462 WVH
+* Tirthraj Maheshkumar Parmar (email: parmar.t@husky.neu.edu), Wednesdays 4:00 - 5:00 pm, or by appointment, 462 WVH
+* Manthan Thakar (email: thakar.ma@husky.neu.edu), Mondays 1:00 - 2:00 pm, or by appointment, 462 WVH
 
 **Discussion Forum**: [Piazza](http://piazza.com/northeastern/sp2018/cs6120/home), sign up at [piazza.com/northeastern/sp2018/cs6120](http://piazza.com/northeastern/sp2018/cs6120)
 
@@ -65,11 +65,11 @@ _______
 * TODO: start thinking about projects and looking for teammates
 
 #### Jan 16 & 19
-* Topic: Text Categorization, Naive Bayes, Part-of-Speech Tagging, Sequence Labeling, Hidden Markov Models
+* Topic: LM cont'd, Text Categorization, Naive Bayes, Part-of-Speech Tagging, Sequence Labeling, Hidden Markov Models
 * Reading: Ch5, Ch6.1-6.5, and [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf) from 3rd edition
 
 #### Jan 23 & 26
-* Topic: Word Sense Disambiguation
+* Topic: HMM cont'd, Word Sense Disambiguation
 * Reading: Ch19-20
 
 
