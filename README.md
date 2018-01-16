@@ -65,7 +65,8 @@ _______
 * TODO: start thinking about projects and looking for teammates
 
 #### Jan 16 & 19
-* Topic: LM cont'd, Text Categorization, Naive Bayes, Part-of-Speech Tagging, Sequence Labeling, Hidden Markov Models
+* Topic: LM cont'd, Text Categorization and Evaluation, Naive Bayes, Part-of-Speech Tagging, Sequence Labeling, Hidden Markov Models
+* Slides: [[Text Categorization]](slides_cs6120_sp18/nb.pdf) [[6pp version]](cs6120_sp2018/slides_cs6120_sp18/nb_6pp.pdf)
 * Reading: Ch5, Ch6.1-6.5, and [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf) from 3rd edition
 
 #### Jan 23 & 26
