@@ -60,13 +60,13 @@ _______
 ## Schedule
 #### Jan 9 & 12
 * Topic: Introduction, Language Models
-* Slides: [[intro]](slides_cs6120_sp18/introduction.pdf) [[6pp version]](slides_cs6120_sp18/introduction_6pp.pdf) [[Language Model]](slides_cs6120_sp18/lm.pdf) [[6pp version]](cs6120_sp2018/slides_cs6120_sp18/lm_6pp.pdf)
+* Slides: [[intro]](slides_cs6120_sp18/introduction.pdf) [[6pp version]](slides_cs6120_sp18/introduction_6pp.pdf) [[Language Model]](slides_cs6120_sp18/lm.pdf) [[6pp version]](slides_cs6120_sp18/lm_6pp.pdf)
 * Reading: Ch1, Ch4.1-4.9 
 * TODO: start thinking about projects and looking for teammates
 
 #### Jan 16 & 19
 * Topic: LM cont'd, Text Categorization and Evaluation, Naive Bayes, Part-of-Speech Tagging, Sequence Labeling, Hidden Markov Models
-* Slides: [[Text Categorization]](slides_cs6120_sp18/nb.pdf) [[6pp version]](cs6120_sp2018/slides_cs6120_sp18/nb_6pp.pdf)
+* Slides: [[Text Categorization]](slides_cs6120_sp18/nb.pdf) [[6pp version]](slides_cs6120_sp18/nb_6pp.pdf)
 * Reading: Ch5, Ch6.1-6.5, and [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf) from 3rd edition
 
 #### Jan 23 & 26
