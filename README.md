@@ -47,6 +47,11 @@ Grades will be determined based on three assignments, ten in-class tests, one co
 * Project (25%): team of 2 to 3 students, proposal (3%), reports (7%+10%), final presentation (5%, with 1% as bonus if selected as best project by peer students)
 * Exam (35%): open-book
 * Participation (5%): classes (participating in-class discussions, etc), Piazza (answering questions, sharing notes, etc)
+
+
+ #### Assignments
+ * [[Assignment 1]](material_cs6120_sp18/a1.pdf)
+ * [[Assignment 2]](material_cs6120_sp18/a2.pdf)
  
  #### Sample Writeups for Project
  * [[Project Proposal]](material_cs6120_sp18/project_proposal.pdf)
