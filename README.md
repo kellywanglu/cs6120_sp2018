@@ -69,39 +69,40 @@ _______
 * Reading: Ch1, Ch4.1-4.9 
 * TODO: start thinking about projects and looking for teammates
 
-#### Jan 16 & 19
+#### Jan 16 (quiz) & 19
 * Topic: LM cont'd, Text Categorization and Evaluation, Naive Bayes, Part-of-Speech Tagging, Sequence Labeling, Hidden Markov Models
 * Slides: [[Text Categorization]](slides_cs6120_sp18/nb.pdf) [[6pp version]](slides_cs6120_sp18/nb_6pp.pdf) [[POS Tagging]](slides_cs6120_sp18/postag.pdf) [[6pp version]](slides_cs6120_sp18/postag_6pp.pdf)
 * Reading: Ch5, Ch6.1-6.5, and [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf) from 3rd edition
 
-#### Jan 23 & 26
+#### Jan 23 (quiz) & 26
 * Topic: HMM cont'd, Word Sense Disambiguation
-* Reading: Ch19-20
+* Slides: [[WSD]](slides_cs6120_sp18/wsd.pdf) [[6pp version]](slides_cs6120_sp18/wsd_6pp.pdf) 
+* Reading: Ch19-20, and [http://web.stanford.edu/~jurafsky/slp3/17.pdf](http://web.stanford.edu/~jurafsky/slp3/17.pdf) 
 
 
-#### Jan 30 & Feb 2
-* Topic: HMM cont'd, Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks)
+#### Jan 30 (quiz) & Feb 2
+* Topic: Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks)
 * Reading: Ch6.6, Ch12.1-12.5
 * Course project proposal due on Jan 30.
 
 
-#### Feb 6 & 9
+#### Feb 6 (quiz) & 9
 * Topic: Formal Grammars of English, Syntactic Parsing, Dependency Parsing
 * Reading: Ch12.1-12.5, Ch13.1-13.4.1
 * Assignment 1 is due on Feb 6.
 
 
-#### Feb 13 & 16
+#### Feb 13 (quiz) & 16
 * Topic: Vector-Space Lexical Semantics, Semantic Parsing, Combining Logical and Distributional Semantics
 * Reading: Ch20.7, and [http://web.stanford.edu/~jurafsky/slp3/15.pdf](http://web.stanford.edu/~jurafsky/slp3/15.pdf), [http://web.stanford.edu/~jurafsky/slp3/16.pdf](http://web.stanford.edu/~jurafsky/slp3/16.pdf)
 
 
-#### Feb 20 & 23
+#### Feb 20 (quiz) & 23
 * Topic: Semantics cont'd, Information Extraction
 * Reading: Ch22.1-22.2
 
 
-#### Feb 27 
+#### Feb (quiz) 27 
 * Topic: Question Answering
 * Reading: Ch23
 
@@ -110,7 +111,7 @@ _______
 
 #### Mar 6 & 9 (No class: spring break)
 
-#### Mar 13 & 16
+#### Mar 13 (quiz) & 16
 * Topic: Text Summarization, Sentiment Analysis
 * Reading: [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf), [http://web.stanford.edu/~jurafsky/slp3/18.pdf](http://web.stanford.edu/~jurafsky/slp3/18.pdf)
 * Assignment 2 is due on Mar 13.
