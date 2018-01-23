@@ -102,7 +102,7 @@ _______
 * Reading: Ch22.1-22.2
 
 
-#### Feb (quiz) 27 
+#### Feb 27 (quiz) 
 * Topic: Question Answering
 * Reading: Ch23
 
