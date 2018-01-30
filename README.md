@@ -81,7 +81,8 @@ _______
 
 
 #### Jan 30 (quiz) & Feb 2
-* Topic: Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks)
+* Topic: Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks, Recurrent Neural Networks)
+* Slides: [[ML]](slides_cs6120_sp18/mlbasics.pdf) [[6pp version]](slides_cs6120_sp18/mlbasics_6pp.pdf) 
 * Reading: Ch6.6, Ch12.1-12.5
 * Course project proposal due on Jan 30.
 
