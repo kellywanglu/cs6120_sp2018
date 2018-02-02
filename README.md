@@ -81,15 +81,14 @@ _______
 
 
 #### Jan 30 (quiz) & Feb 2
-* Topic: Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks, Recurrent Neural Networks)
-* Slides: [[ML]](slides_cs6120_sp18/mlbasics.pdf) [[6pp version]](slides_cs6120_sp18/mlbasics_6pp.pdf) 
+* Topic: Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks), Formal Grammars of English, Syntactic Parsing
+* Slides: [[ML]](slides_cs6120_sp18/mlbasics.pdf) [[6pp version]](slides_cs6120_sp18/mlbasics_6pp.pdf) [[parsing]](slides_cs6120_sp18/parsing.pdf) [[6pp version]](slides_cs6120_sp18/parsing_6pp.pdf) 
 * Reading: Ch6.6, Ch12.1-12.5
 * Course project proposal due on Jan 30.
 
 
 #### Feb 6 (quiz) & 9
-* Topic: Formal Grammars of English, Syntactic Parsing, Dependency Parsing
-* Slides: [[parsing]](slides_cs6120_sp18/parsing.pdf) [[6pp version]](slides_cs6120_sp18/parsing_6pp.pdf) 
+* Topic:  Parsing cont'd, Dependency Parsing
 * Reading: Ch12.1-12.5, Ch13.1-13.4.1
 * Assignment 1 is due on Feb 6.
 
@@ -114,7 +113,7 @@ _______
 #### Mar 6 & 9 (No class: spring break)
 
 #### Mar 13 (quiz) & 16
-* Topic: Text Summarization, Sentiment Analysis
+* Topic: Text Summarization, Sentiment Analysis, Recurrent Neural Networks
 * Reading: [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf), [http://web.stanford.edu/~jurafsky/slp3/18.pdf](http://web.stanford.edu/~jurafsky/slp3/18.pdf)
 * Assignment 2 is due on Mar 13.
 
