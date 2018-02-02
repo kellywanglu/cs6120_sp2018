@@ -56,7 +56,7 @@ Grades will be determined based on three assignments, ten in-class tests, one co
  #### Sample Writeups for Project
  * [[Project Proposal]](material_cs6120_sp18/project_proposal.pdf)
  * [[Project Progress Report]](material_cs6120_sp18/project_progress.pdf)
- * [[Project Progress Report]](material_cs6120_sp18/project_report.pdf)
+ * [[Project Final Report]](material_cs6120_sp18/project_report.pdf)
  * Sample projects from Stanford NLP course [[link]](http://web.stanford.edu/class/cs224n/reports.html)
  
  
@@ -89,6 +89,7 @@ _______
 
 #### Feb 6 (quiz) & 9
 * Topic: Formal Grammars of English, Syntactic Parsing, Dependency Parsing
+* Slides: [[parsing]](slides_cs6120_sp18/parsing.pdf) [[6pp version]](slides_cs6120_sp18/parsing_6pp.pdf) 
 * Reading: Ch12.1-12.5, Ch13.1-13.4.1
 * Assignment 1 is due on Feb 6.
 
