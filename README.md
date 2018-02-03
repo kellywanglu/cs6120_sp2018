@@ -15,6 +15,10 @@
 
 _______
 ## Important Announcement
+[2/3/2018] We will use Feb 20 lecture and office hour to give feedback on your course projects! Prepare ahead with questions!
+
+[2/3/2018] Please notice the quiz schedule! 
+
 [1/6/2017] We will have a quiz with 20 **simple** True or False questions (relevant to probability, statistics, and linear algebra) in the second lecture (1/11/2018). This quiz will be graded, but will not be counted in your final score if you're enrolled in CS6120/CS4120. The purpose of this quiz is to indicate the expected background of students. 80% of the questions should be easy to answer. If you find yourself struggling with this quiz, it's possible that you need to catch up on the background or it may be preferable to take one or two preliminary courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above is required to enroll in this course.
 
 _______
@@ -87,7 +91,7 @@ _______
 * Course project proposal due on Jan 30.
 
 
-#### Feb 6 (quiz) & 9
+#### Feb 6 & 9 (quiz)
 * Topic:  Parsing cont'd, Dependency Parsing
 * Reading: Ch12.1-12.5, Ch13.1-13.4.1
 * Assignment 1 is due on Feb 6.
@@ -98,8 +102,9 @@ _______
 * Reading: Ch20.7, and [http://web.stanford.edu/~jurafsky/slp3/15.pdf](http://web.stanford.edu/~jurafsky/slp3/15.pdf), [http://web.stanford.edu/~jurafsky/slp3/16.pdf](http://web.stanford.edu/~jurafsky/slp3/16.pdf)
 
 
-#### Feb 20 (quiz) & 23
-* Topic: Semantics cont'd, Information Extraction
+#### Feb 20 & 23 (quiz)
+* We will use Feb 20 lecture and office hour to give feedback on course projects! Plan ahead with your questions!
+* Topic: Information Extraction
 * Reading: Ch22.1-22.2
 
 
@@ -112,7 +117,7 @@ _______
 
 #### Mar 6 & 9 (No class: spring break)
 
-#### Mar 13 (quiz) & 16
+#### Mar 13 & 16 (quiz)
 * Topic: Text Summarization, Sentiment Analysis, Recurrent Neural Networks
 * Reading: [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf), [http://web.stanford.edu/~jurafsky/slp3/18.pdf](http://web.stanford.edu/~jurafsky/slp3/18.pdf)
 * Assignment 2 is due on Mar 13.
