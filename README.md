@@ -25,6 +25,8 @@ _______
 ## Course Description (and Syllabus)
 This course aims to introduce fundamental tasks in natural language processing, and its recent advances based on machine learning algorithms (e.g., neural networks) and applications for interdisciplinary subjects (e.g., computational social science). The course materials are mostly delivered as lectures, and accompanied with reading materials. The students will be evaluated based on assignments, a **research-driven** course project, and an open-book final exam.
 
+Please find the syllabus here: [[Link]](material_cs6120_sp18/cs6120_syllabus.pdf)
+
 #### Textbooks and Reference
 * Main Textbook:
  * Dan Jurafsky and James H. Martin, "Speech and Language Processing, 2nd Edition", Prentice Hall, 2009.
@@ -92,13 +94,15 @@ _______
 
 
 #### Feb 6 & 9 (quiz)
-* Topic:  Parsing cont'd, Dependency Parsing
+* Topic:  Parsing cont'd, Dependency Parsing, Semantics
+* Slides: [[parsing part2]](slides_cs6120_sp18/parsing_part2.pdf) [[6pp version]](slides_cs6120_sp18/parsing_part2_6pp.pdf) [[semantics part1]](slides_cs6120_sp18/semantics_part1.pdf) [[6pp version]](slides_cs6120_sp18/semantics_part1_6pp.pdf)
 * Reading: Ch12.1-12.5, Ch13.1-13.4.1
 * Assignment 1 is due on Feb 6.
 
 
 #### Feb 13 (quiz) & 16
 * Topic: Vector-Space Lexical Semantics, Semantic Parsing, Combining Logical and Distributional Semantics
+* Slides: [[semantics part2]](slides_cs6120_sp18/semantics_part2.pdf) [[6pp version]](slides_cs6120_sp18/semantics_part2_6pp.pdf)
 * Reading: Ch20.7, and [http://web.stanford.edu/~jurafsky/slp3/15.pdf](http://web.stanford.edu/~jurafsky/slp3/15.pdf), [http://web.stanford.edu/~jurafsky/slp3/16.pdf](http://web.stanford.edu/~jurafsky/slp3/16.pdf)
 
 
