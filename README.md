@@ -102,7 +102,7 @@ _______
 
 #### Feb 13 (quiz) & 16
 * Topic: Vector-Space Lexical Semantics, Semantic Parsing, Combining Logical and Distributional Semantics
-* Slides: [[semantics part2]](slides_cs6120_sp18/semantics_part2.pdf) [[6pp version]](slides_cs6120_sp18/semantics_part2_6pp.pdf)
+* Slides: [[semantics part2]](slides_cs6120_sp18/semantics_part2.pdf) [[6pp version]](slides_cs6120_sp18/semantics_part2_6pp.pdf) [[semantics part3]](slides_cs6120_sp18/semantics_part3.pdf) [[6pp version]](slides_cs6120_sp18/semantics_part3_6pp.pdf)
 * Reading: Ch20.7, and [http://web.stanford.edu/~jurafsky/slp3/15.pdf](http://web.stanford.edu/~jurafsky/slp3/15.pdf), [http://web.stanford.edu/~jurafsky/slp3/16.pdf](http://web.stanford.edu/~jurafsky/slp3/16.pdf)
 
 
