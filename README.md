@@ -109,6 +109,7 @@ _______
 #### Feb 20 & 23 (quiz)
 * We will use Feb 20 lecture and office hour to give feedback on course projects! Plan ahead with your questions!
 * Topic: Information Extraction
+* Slides: [[IE]](slides_cs6120_sp18/ie.pdf) [[6pp version]](slides_cs6120_sp18/ie_6pp.pdf)
 * Reading: Ch22.1-22.2
 
 
