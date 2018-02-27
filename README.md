@@ -115,6 +115,7 @@ _______
 
 #### Feb 27 (quiz) 
 * Topic: Question Answering
+* Slides: [[QA]](slides_cs6120_sp18/qa.pdf) [[6pp version]](slides_cs6120_sp18/qa_6pp.pdf)
 * Reading: Ch23
 
 
