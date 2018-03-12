@@ -123,10 +123,14 @@ _______
 
 #### Mar 6 & 9 (No class: spring break)
 
-#### Mar 13 & 16 (quiz)
-* Topic: Text Summarization, Sentiment Analysis, Recurrent Neural Networks
-* Reading: [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf), [http://web.stanford.edu/~jurafsky/slp3/18.pdf](http://web.stanford.edu/~jurafsky/slp3/18.pdf)
+#### Mar 13 (Class cancelled due to snow storm)
 * Assignment 2 is due on Mar 13.
+
+#### Mar 16 (quiz)
+* Topic: Text Summarization, Recurrent Neural Networks
+* Slides: [[Summarization]](slides_cs6120_sp18/summarization.pdf) [[6pp version]](slides_cs6120_sp18/summarization_6pp.pdf)
+* Reading: Ch23.3-23.7
+
 
 #### Mar 20 & 23
 * Topic: Sentiment Analysis, Opinion Mining, NLP and Social Media
