@@ -44,9 +44,9 @@ This course is designed for graduate students and senior undergraduate students 
 
 _______
 ## Grading
-Each assignment or report, both electronic copy and hard copy, is due at the beginning of class on the corresponding due date. Blackboard is used for electronic submission. Hard copies are submitted in class. Assignment or report turned in late will be charged 20 points (out of 100 points) off for each late day (i.e. 24 hours). Each student has a budget of 5 days throughout the semester before a late penalty is applied. You may want to use it wisely, e.g. save for emergencies. Each 24 hours or part thereof that a submission is late uses up one full late day. Late days are not applicable to final presentation. Each group member is charged with the same number of late days, if any, for their submission.
+Each assignment or report is due at the beginning of class on the corresponding due date. Blackboard is used for electronic submission. Assignment or report turned in late will be charged 20 points (out of 100 points) off for each late day (i.e. 24 hours). Each student has a budget of 5 days throughout the semester before a late penalty is applied. You may want to use it wisely, e.g. save for emergencies. Each 24 hours or part thereof that a submission is late uses up one full late day. Late days are not applicable to final presentation. Each group member is charged with the same number of late days, if any, for their submission.
 
-Grades will be determined based on three assignments, ten in-class tests, one course project, one open-book exam, and participation:
+Grades will be determined based on two assignments, eight in-class tests, one course project, one open-book exam, and participation:
 
 * Assignments (30%): two assignments, each of 15%
 * Quiz (5%): eight quick in-class tests (taken place at the beginning of Tuesday lectures), each of 1%; three with lowest grades will be dropped, and no make-up
