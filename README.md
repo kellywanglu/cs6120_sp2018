@@ -142,11 +142,15 @@ _______
 * Topic: Dialog Systems and Chatbots
 * Reading: Ch24, or [http://web.stanford.edu/~jurafsky/slp3/29.pdf](http://web.stanford.edu/~jurafsky/slp3/29.pdf)
 
+#### April 3
+* Topic: Project progress feedback! 3:25pm-6:15pm in 258 WVH.
 
-
-#### April 3 & 6 & 10
+#### April 6 & 10 & 13
 * Topic: Course Project Presentation
-* Project final report due on April 17 (tentatively).
+* Project final report due on April 17.
+
+#### April 25
+* Topic: final exam, time: 8am-10am, location: 108 WVH
 
 
 _______
