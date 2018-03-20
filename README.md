@@ -127,14 +127,15 @@ _______
 * Assignment 2 is due on Mar 13.
 
 #### Mar 16 (quiz)
-* Topic: Text Summarization, Recurrent Neural Networks
+* Topic: Text Summarization
 * Slides: [[Summarization]](slides_cs6120_sp18/summarization.pdf) [[6pp version]](slides_cs6120_sp18/summarization_6pp.pdf)
 * Reading: Ch23.3-23.7
 
 
 #### Mar 20 & 23
-* Topic: Sentiment Analysis, Opinion Mining, NLP and Social Media
-* Reading: [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf), [http://web.stanford.edu/~jurafsky/slp3/18.pdf](http://web.stanford.edu/~jurafsky/slp3/18.pdf)
+* Topic: Discourse Analysis, Sentiment Analysis, Opinion Mining, NLP and Social Media
+* Slides: [[Discourse]](slides_cs6120_sp18/discourse.pdf) [[6pp version]](slides_cs6120_sp18/discourse_6pp.pdf) [[Sentiment]](slides_cs6120_sp18/sentiment.pdf) [[6pp version]](slides_cs6120_sp18/sentiment_6pp.pdf)
+* Reading: Ch21, [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf), [http://web.stanford.edu/~jurafsky/slp3/18.pdf](http://web.stanford.edu/~jurafsky/slp3/18.pdf)
 * Coure project progress report due on Mar 20
 
 
