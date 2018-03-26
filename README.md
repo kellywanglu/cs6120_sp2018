@@ -140,8 +140,9 @@ _______
 
 
 #### Mar 27 & 30
-* Topic: Dialog Systems and Chatbots
-* Reading: Ch24, or [http://web.stanford.edu/~jurafsky/slp3/29.pdf](http://web.stanford.edu/~jurafsky/slp3/29.pdf)
+* Topic: Dialogue Systems and Chatbots, Machine Translation
+* Slides: [[Dialogue]](slides_cs6120_sp18/dialogue.pdf) [[6pp version]](slides_cs6120_sp18/dialogue_6pp.pdf) [[MT]](slides_cs6120_sp18/mt.pdf) [[6pp version]](slides_cs6120_sp18/mt_6pp.pdf)
+* Reading: Ch24, Ch25.1-25.5, or [http://web.stanford.edu/~jurafsky/slp3/29.pdf](http://web.stanford.edu/~jurafsky/slp3/29.pdf)
 
 #### April 3
 * Topic: Project progress feedback! 3:25pm-6:15pm in 258 WVH.
