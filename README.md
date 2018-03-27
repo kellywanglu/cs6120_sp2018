@@ -139,7 +139,7 @@ _______
 * Coure project progress report due on Mar 20
 
 
-#### Mar 27 & 30
+#### Mar 27 & 30 (This will be the last lecture)
 * Topic: Dialogue Systems and Chatbots, Machine Translation
 * Slides: [[Dialogue]](slides_cs6120_sp18/dialogue.pdf) [[6pp version]](slides_cs6120_sp18/dialogue_6pp.pdf) [[MT]](slides_cs6120_sp18/mt.pdf) [[6pp version]](slides_cs6120_sp18/mt_6pp.pdf)
 * Reading: Ch24, Ch25.1-25.5, or [http://web.stanford.edu/~jurafsky/slp3/29.pdf](http://web.stanford.edu/~jurafsky/slp3/29.pdf)
